@@ -9,7 +9,7 @@ The primary goal of this repository is to demonstrate production-grade **T-SQL p
 
 ## 💾 Dataset Access
 The underlying dataset utilized for this analysis is sourced from Kaggle. 
-* **Raw Data Source:** 
+* **Raw Data Source:** https://www.kaggle.com/datasets/dhruvsinghalanalyst/walmart-sales-data
 
 
 ---
